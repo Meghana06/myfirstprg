@@ -1,2 +1,2 @@
 # myfirstprg
-hy this is my experiment over github.
+hy this is my  first experiment over github.
